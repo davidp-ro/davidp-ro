@@ -2,6 +2,8 @@
 
 ![header-image](https://github.com/davidp-ro/davidp-ro/blob/master/Header_Image.gif)
 
+<!--
+Thought it looked nice, but nope
 <p align="center">
  <a href="https://img.shields.io/badge/email-davidpescariu12@gmail.com-red" alt="discord">
   <img src="https://img.shields.io/badge/Discord-dvp-blueviolet" /></a>
@@ -14,6 +16,7 @@
  <a href="https://img.shields.io/badge/Cordova%20%2F%20Ionic-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-orange" alt="js">
   <img src="https://img.shields.io/badge/Cordova%20%2F%20Ionic-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-orange" /></a>
 </p>
+-->
 
 ---
 
@@ -29,3 +32,8 @@
   * 🎮 - [Steam Stats Discord Bot](https://github.com/davidp-ro/Discord-Bots)
   * 🛰️ - [My team's AstroPi Project](https://github.com/davidp-ro/BPC_Pi)
   * 🖨️ - [Different 3D Models](https://github.com/davidp-ro/3d-prints)
+  
+### 👨🏻‍💻 Socials and Stuff
+ ![Discord](https://img.shields.io/badge/Discord-dvp_%234408-blueviolet?style=for-the-badge&logo=discord)
+ ![Steam](https://img.shields.io/badge/Steam-id:_dvp__ro-blue?style=for-the-badge&logo=steam)
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-davidpescariu-blue?style=for-the-badge&logo=linkedin)
