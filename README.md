@@ -10,7 +10,7 @@
   * Check out [our repo](https://github.com/entropy-dpit)
 
 ### 🚀 What I'm currently working on
-  * Working @ Entropy, on everything from an app in *Dart* to an api with *Flask*
+  * Working @ Entropy, on everything from an app in *Dart* to an api with *Flask* to the firmware written in *C*
 
 ### ⚡ My previous projects
   * 🦠 - [COVID Stats-scraper](https://github.com/davidp-ro/Coronavirus-Stats)
