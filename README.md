@@ -1,7 +1,7 @@
 ###  Hey there, welcome to my repo, make yourself comfortable ☕
 
 <!-- Nyancat -->
-![header-image](Header_Image.gif)
+![header-image](https://github.com/davidp-ro/davidp-ro/blob/master/Header_Image.gif)
 
 ---
 
