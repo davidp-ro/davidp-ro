@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="Header_Image.gif">
 
 <!--
 **davidp-ro/davidp-ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
