@@ -1,7 +1,19 @@
 ###  Hey there, welcome to my repo, make yourself comfortable ☕
 
-<!-- Nyancat -->
 ![header-image](https://github.com/davidp-ro/davidp-ro/blob/master/Header_Image.gif)
+
+<p align="center">
+ <a href="https://img.shields.io/badge/email-davidpescariu12@gmail.com-red" alt="discord">
+  <img src="https://img.shields.io/badge/Discord-dvp-blueviolet" /></a>
+ <a href="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue" alt="py">
+  <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue" /></a>
+ <a href="https://img.shields.io/badge/Dart%20%2F%20Flutter-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9cf" alt="dart">
+  <img src="https://img.shields.io/badge/Dart%20%2F%20Flutter-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9cf" /></a>
+ <a href="https://img.shields.io/badge/C%20%2F%20C++-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-greenyellow" alt="cc++">
+  <img src="https://img.shields.io/badge/C%20%2F%20C++-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-greenyellow" /></a>
+ <a href="https://img.shields.io/badge/Cordova%20%2F%20Ionic-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-orange" alt="js">
+  <img src="https://img.shields.io/badge/Cordova%20%2F%20Ionic-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-orange" /></a>
+</p>
 
 ---
 
