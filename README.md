@@ -1,16 +1,19 @@
-<img src="Header_Image.gif">
+###  Hey there, welcome to my repo, make yourself comfortable ☕
 
-<!--
-**davidp-ro/davidp-ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Nyancat -->
+![header-image](Header_Image.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Check out Team Entropy
+  * We are currently working on Safe-Signal a complete solution for your personal safety
+  * Check out [our repo](https://github.com/entropy-dpit)
+
+### 🚀 What I'm currently working on
+  * Working @ Entropy, on everything from an app in *Dart* to an api with *Flask*
+
+### ⚡ My previous projects
+  * 🦠 - [COVID Stats-scraper](https://github.com/davidp-ro/Coronavirus-Stats)
+  * 🎮 - [Steam Stats Discord Bot](https://github.com/davidp-ro/Discord-Bots)
+  * 🛰️ - [My team's AstroPi Project](https://github.com/davidp-ro/BPC_Pi)
+  * 🖨️ - [Different 3D Models](https://github.com/davidp-ro/3d-prints)
