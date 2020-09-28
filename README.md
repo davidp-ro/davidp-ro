@@ -15,7 +15,7 @@
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-left: 10px;"/>
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-left: 10px;"/>
 
-<br><br>
+<br>
 
 <h3>Technologies / Tools: </h3>
 <img align="left" alt="Flutter" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" style="margin-left: 10px"/>
@@ -26,7 +26,7 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin-left: 10px"/>
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin-left: 10px"/>
 
-<br><br>
+<br>
 
 <h3>Hardware / Design: </h3>
 <img align="left" alt="Arduino" title="Arduino" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" style="margin-left: 10px"/>
@@ -36,7 +36,7 @@
 <img align="left" alt="Fusion 360" title="Fusion 360" width="32px" src="https://p1.hiclipart.com/preview/912/119/781/simply-styled-icon-set-731-icons-free-fusion-360-orange-logo-illustration-png-clipart.jpg" style="margin-left: 10px"/>
 <img align="left" alt="3D Printing" title="3D Printing" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/3419/3419204.svg" style="margin-left: 10px"/>
 
-<br><br>
+<br>
 
 ---
 
@@ -52,7 +52,7 @@
   * Built with Electron, because I really wanted to try it.
 
 ### ⚡ Some of my personal projects
-  * 📈 - [Facebook Data Visualzier](https://github.com/davidp-ro/FacebookDataVisualizer)
+  * 📈 - [Facebook Data Visualizer](https://github.com/davidp-ro/FacebookDataVisualizer)
   * 🦠 - [COVID Stats-scraper](https://github.com/davidp-ro/Coronavirus-Stats)
   * 🎮 - [Steam Stats Discord Bot](https://github.com/davidp-ro/Discord-Bots)
   * 🛰️ - [My team's AstroPi Project](https://github.com/davidp-ro/BPC_Pi)
