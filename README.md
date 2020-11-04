@@ -48,6 +48,11 @@
   <a href="https://www.instagram.com/safe_signal/"><img src="https://img.shields.io/badge/Instagram-safe__signal-darkred?style=for-the-badge&logo=instagram"></a>
 
 ### 🚀 What I'm currently working on
+  Main Project:
+  * Building a self driving car with OpenCV
+  * Raspbserry Pi for data proccesing, Arduino for motor control / supervising for collisions
+  
+  Side Project:
   * Building a visualizer for the data facebook knows about you
   * Built with Electron, because I really wanted to try it.
 
