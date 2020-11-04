@@ -40,7 +40,7 @@
 
 ---
 
-### 🌟 Check out Team Entropy
+### 🌟 Check out Team Entropy - 2nd Place @ DPIT Academy 2020
   * We worked on Safe Signal, a new step in personal safety
   
   <a href="https://www.facebook.com/Safe-Signal-110487760734282"><img src="https://img.shields.io/badge/FaceBook-Safe_Signal-purple?style=for-the-badge&logo=facebook"></a>
