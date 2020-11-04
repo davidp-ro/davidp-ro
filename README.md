@@ -52,6 +52,7 @@
   * Built with Electron, because I really wanted to try it.
 
 ### ⚡ Some of my personal projects
+  * 🏎️ - [Self Driving Car](https://github.com/davidp-ro/self-driving-car)
   * 📈 - [Facebook Data Visualizer](https://github.com/davidp-ro/FacebookDataVisualizer)
   * 🦠 - [COVID Stats-scraper](https://github.com/davidp-ro/Coronavirus-Stats)
   * 🎮 - [Steam Stats Discord Bot](https://github.com/davidp-ro/Discord-Bots)
