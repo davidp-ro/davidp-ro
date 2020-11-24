@@ -31,7 +31,7 @@
 <h3>Hardware / Design: </h3>
 <img align="left" alt="Arduino" title="Arduino" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" style="margin-left: 10px"/>
 <img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" style="margin-left: 10px"/>
-<img align="left" alt="PCB Design" title="PCB Design" width="32px" src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" style="margin-left: 10px"/>
+<img align="left" alt="PCB Design" title="PCB Design - KiCad" width="32px" src="https://kicad.org/favicon-96x96.png" style="margin-left: 10px"/>
 <img align="left" alt="Cypress PSoC" title="Cypress PSoC" width="32px" src="https://avatars0.githubusercontent.com/u/9689685?s=200&v=4" style="margin-left: 10px"/>
 <img align="left" alt="Fusion 360" title="Fusion 360" width="32px" src="https://p1.hiclipart.com/preview/912/119/781/simply-styled-icon-set-731-icons-free-fusion-360-orange-logo-illustration-png-clipart.jpg" style="margin-left: 10px"/>
 <img align="left" alt="3D Printing" title="3D Printing" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/3419/3419204.svg" style="margin-left: 10px"/>
