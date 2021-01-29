@@ -35,8 +35,8 @@
 ---
 
 <!-------------------------------[ Contact ]----------------------------------->
-<h2 align=center>
-    Contact Me<br>
+<h2 align=center>Contact Me</h2>
+<p align=center>
     <a href="https://www.linkedin.com/in/davidpescariu/">
         <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Social_LinkedIn.png" alt="Linkedin: davidpescariu" height=42/>
     </a>
@@ -46,6 +46,5 @@
     <a href="https://www.instagram.com/david.pescariu/">
         <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Social_Instagram.png" alt="Instagram: david.pescariu" height=42/>
     </a>
-</h2>
-
+</p>
 <!-------------------------------[ The End ]----------------------------------->
