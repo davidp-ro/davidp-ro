@@ -38,7 +38,7 @@
 <h2 align=center>
     Contact Me<br>
     <a href="https://www.linkedin.com/in/davidpescariu/">
-        <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Social_Linkedin.png" alt="Linkedin: davidpescariu" height=42/>
+        <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Social_LinkedIn.png" alt="Linkedin: davidpescariu" height=42/>
     </a>
     <a href="https://discord.com/">
         <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Social_Discord.png" alt="Discord: dvp #4408" height=42/>
