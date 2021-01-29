@@ -7,7 +7,7 @@
 
 <!--------------------------------[ Header ]----------------------------------->
 <a href="https://github.com/davidp-ro">
-    <img src="https://github.com/davidp-ro/davidp-ro/assets/Header.png" alt="Header Image"/>
+    <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Header.png" alt="Header Image"/>
 </a>
 
 ### About me?
@@ -18,10 +18,10 @@
 <!-------------------------------[ Projects ]---------------------------------->
 <h2 align=center>Some of my previous projects</h2>
 <a href="https://github.com/entropy-dpit">
-    <img src="https://github.com/davidp-ro/davidp-ro/assets/Safe_Signal.png" alt="Safe Signal"/>
+    <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Safe_Signal.png" alt="Safe Signal"/>
 </a>
 <a href="https://github.com/davidp-ro/self-driving-car">
-    <img src="https://github.com/davidp-ro/davidp-ro/assets/Self_Driving_Car.png" alt="Self Driving Car"/>
+    <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Self_Driving_Car.png" alt="Self Driving Car"/>
 </a>
 
 ---
@@ -29,7 +29,7 @@
 <!--------------------------------[ Skills ]----------------------------------->
 <h2 align=center>What can I do?</h2>
 <a href="https://github.com/davidp-ro">
-    <img src="https://github.com/davidp-ro/davidp-ro/assets/Showcase.png" alt="What I can do"/>
+    <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Showcase.png" alt="What I can do"/>
 </a>
 
 ---
@@ -38,13 +38,13 @@
 <h2 align=center>
     Contact Me<br>
     <a href="https://www.linkedin.com/in/davidpescariu/">
-        <img src="https://github.com/davidp-ro/davidp-ro/assets/Social_Linkedin.png" alt="Linkedin: davidpescariu" height=42/>
+        <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Social_Linkedin.png" alt="Linkedin: davidpescariu" height=42/>
     </a>
     <a href="https://discord.com/">
-        <img src="https://github.com/davidp-ro/davidp-ro/assets/Social_Discord.png" alt="Discord: dvp #4408" height=42/>
+        <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Social_Discord.png" alt="Discord: dvp #4408" height=42/>
     </a>
     <a href="https://www.instagram.com/david.pescariu/">
-        <img src="https://github.com/davidp-ro/davidp-ro/assets/Social_Instagram.png" alt="Instagram: david.pescariu" height=42/>
+        <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Social_Instagram.png" alt="Instagram: david.pescariu" height=42/>
     </a>
 </h2>
 
