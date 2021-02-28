@@ -17,7 +17,7 @@
 
 <!-------------------------------[ Projects ]---------------------------------->
 <h2 align=center>Some of my previous projects</h2>
-<a href="https://github.com/entropy-dpit">
+<a href="https://github.com/prisma-ai-official">
     <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Safe_Signal.png" alt="Safe Signal"/>
 </a>
 <a href="https://github.com/davidp-ro/self-driving-car">
