@@ -25,16 +25,6 @@
 </a>
 
 <!-------------------------------[ Contact ]----------------------------------->
-<h2 align=center>Contact Me</h2>
-<p align=center>
-    <a href="https://www.linkedin.com/in/davidpescariu/">
-        <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Social_LinkedIn.png" alt="Linkedin: davidpescariu" height=42/>
-    </a>
-    <a href="https://discord.com/">
-        <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Social_Discord.png" alt="Discord: dvp #4408" height=42/>
-    </a>
-    <a href="https://www.instagram.com/david.pescariu/">
-        <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Social_Instagram.png" alt="Instagram: david.pescariu" height=42/>
-    </a>
-</p>
+<h1 align=center><a href="https://davidp-ro.github.io/?contact">Contact Me</a></h1>
+
 <!-------------------------------[ The End ]----------------------------------->
