@@ -25,6 +25,6 @@
 </a>
 
 <!-------------------------------[ Contact ]----------------------------------->
-<h1 align=center><a href="https://davidp-ro.github.io/?contact">Contact Me</a></h1>
+<h1 align=center><a href="https://davidp-ro.github.io/?contact" target="_blank">Contact Me</a></h1>
 
 <!-------------------------------[ The End ]----------------------------------->
