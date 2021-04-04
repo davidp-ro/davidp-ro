@@ -10,10 +10,10 @@
     <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Header.png" alt="Header Image"/>
 </a>
 
-### About me?
+### About me
 - 🏫 I'm currently in High School
 - 👨🏻‍💻 Passionate about tech in general
-- 🛠️ Looking for internships
+- 🛠️ Looking for internships - [Get my CV](https://davidp-ro.github.io/David-Pescariu_EN.pdf)
 
 <!-------------------------------[ Projects ]---------------------------------->
 <h2 align=center>Some of my previous projects</h2>
@@ -23,16 +23,6 @@
 <a href="https://github.com/davidp-ro/self-driving-car">
     <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Self_Driving_Car.png" alt="Self Driving Car"/>
 </a>
-
----
-
-<!--------------------------------[ Skills ]----------------------------------->
-<h2 align=center>What can I do?</h2>
-<a href="https://github.com/davidp-ro">
-    <img src="https://github.com/davidp-ro/davidp-ro/blob/master/assets/Showcase.png" alt="What I can do"/>
-</a>
-
----
 
 <!-------------------------------[ Contact ]----------------------------------->
 <h2 align=center>Contact Me</h2>
