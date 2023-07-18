@@ -11,7 +11,7 @@
 
 ### About me
 
-- 🏫 I'm currently in High School
+- 🏫 Student @ TUCN - Electronics & Telecommunications Eng.
 - 👨🏻‍💻 Passionate about tech in general _(can you tell I like Svelte?)_
 - 🛠️ Working to make Prisma - _Making the world a safer place_ a reality
 - 🫶 I also volunteer @ <a href="https://dpit.ro/" target="_blank">Asociatia DPIT</a>
