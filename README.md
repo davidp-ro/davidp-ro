@@ -3,6 +3,10 @@
     Either way, hi :)
 
     Also you might want to see davidpescariu.com
+
+    -=-=-=-
+    Archive :))
+    - 🛠️ Working to make Prisma - _Making the world a safer place_ a reality
 -->
 
 <a href="https://github.com/davidp-ro">
@@ -12,8 +16,7 @@
 ### About me
 
 - 🏫 Student @ TUCN - Electronics & Telecommunications Eng.
-- 👨🏻‍💻 Passionate about tech in general _(can you tell I like Svelte?)_
-- 🛠️ Working to make Prisma - _Making the world a safer place_ a reality
+- 👨🏻‍💻 Passionate about development in general _(can you tell I like Svelte?)_
 - 🫶 I also volunteer @ <a href="https://dpit.ro/" target="_blank">Asociatia DPIT</a>
 
 <h3 align=center>
